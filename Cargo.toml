@@ -1,9 +1,9 @@
 
 [package]
-name = "webgl"
+name = "voronoid"
 version = "0.1.0"
-authors = ["The wasm-bindgen Developers"]
-edition = "2018"
+authors = ["Dan Groom"]
+edition = "2020"
 
 [lib]
 crate-type = ["cdylib"]
